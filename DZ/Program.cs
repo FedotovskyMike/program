@@ -17,5 +17,5 @@ Console.WriteLine(max);
 
 ///////////
 
-
+проверка
 
